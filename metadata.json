@@ -1,0 +1,7 @@
+{
+  "name": "MedExplain – AI Healthcare Information Assistant",
+  "description": "Explains complex medical reports, prescriptions, and healthcare terminology in simple, user-friendly language with safety guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
